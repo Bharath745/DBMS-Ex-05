@@ -1,4 +1,4 @@
-# Exp-5 SQL query to fetch duplicate records having matching data in some fields of a table.
+# Exp-18 SQL query to fetch duplicate records having matching data in some fields of a table.
 ## AIM:
 To write a sql query to fetch duplicate records having matching data in some fields of a table.
 ## PROCEDURE:
